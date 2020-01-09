@@ -1,0 +1,11 @@
+.booth {
+    width: 400px;
+    background: #ccc;
+    border: 10px solid #ddd;
+    text-align: center;
+}
+
+#play-button {
+    height: 100px;
+    width: 100px;
+}
